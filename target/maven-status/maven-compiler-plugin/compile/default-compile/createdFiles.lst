@@ -1,0 +1,6 @@
+net\chicken\projects\square\plotmanagement\PlotTypes.class
+net\chicken\projects\square\database\MongoDB.class
+net\chicken\projects\square\plotmanagement\Plot.class
+net\chicken\projects\square\events\InternalEvents.class
+net\chicken\projects\square\plotmanagement\WorldManager.class
+net\chicken\projects\square\Square.class

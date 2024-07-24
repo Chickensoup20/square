@@ -1,0 +1,4 @@
+name: square
+version: '1.0-SNAPSHOT'
+main: net.chicken.projects.square.Square
+api-version: '1.20'
